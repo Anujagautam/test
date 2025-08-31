@@ -4,25 +4,7 @@ hello
 
 
 
-
-DevOps Roadmap
-1. Foundations
-
-Before diving into DevOps tools, you need strong basics:
-
-Operating Systems (Linux preferred)
-
-Commands, file system, permissions, networking, process management.
-
-Networking & Security
-
-IP, DNS, HTTP/HTTPS, SSH, firewalls, load balancers.
-
-Scripting & Programming
-
-Bash scripting (essential).
-
-A programming language (Python/Go) for automation.
+ paragraph is a group of sentences that are connected and make absolute sense. While writing a long essay or letter, we break them into paragraphs for better understanding and to make a well-structured writing piece. Paragraph writing topics is not only about expressing your thoughts on the given subject. However, it is also about framing ideas about the topic and making it convenient for the readers to follow it. So, in English paragraph writing, it is important to focus on the writing style. Thus, the flow and connection between sentences must be good.
 
 
 
