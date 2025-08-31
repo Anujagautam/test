@@ -1,4 +1,5 @@
 No
+
 hello
 
 
@@ -22,4 +23,16 @@ Scripting & Programming
 Bash scripting (essential).
 
 A programming language (Python/Go) for automation.
+
+
+
+
+
+
+Confirm Form Resubmission
+This webpage requires data that you entered earlier in order to be properly displayed. You can send this data again, but by doing so you will repeat any action this page previously performed.
+
+Press the reload button to resubmit the data needed to load the page.
+ERR_CACHE_MISS
+
 
