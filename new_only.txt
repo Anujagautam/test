@@ -1,3 +1,25 @@
 No
 hello
 
+
+
+
+DevOps Roadmap
+1. Foundations
+
+Before diving into DevOps tools, you need strong basics:
+
+Operating Systems (Linux preferred)
+
+Commands, file system, permissions, networking, process management.
+
+Networking & Security
+
+IP, DNS, HTTP/HTTPS, SSH, firewalls, load balancers.
+
+Scripting & Programming
+
+Bash scripting (essential).
+
+A programming language (Python/Go) for automation.
+
